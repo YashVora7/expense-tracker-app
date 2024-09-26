@@ -1,0 +1,3 @@
+title,amount ,date,category,payment_method
+expense via file 1,50,,home,cash
+exp via file 2,2100,,home,cash
