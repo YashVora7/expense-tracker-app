@@ -24,6 +24,13 @@ This is the backend for the Expense Tracker App. It provides CRUD (Create, Read,
 
 ## API Endpoints:
 
+### User Routes:
+
+| Method | Endpoint                         | Description                        |
+|--------|----------------------------------|------------------------------------|
+| **POST**    | `/user/login`                    | Login User                      |
+| **POST**     | `/user/signup`                    | Register User                  |
+
 ### Expense Routes:
 
 | Method | Endpoint                         | Description                        |
